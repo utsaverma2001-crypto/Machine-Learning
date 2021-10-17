@@ -13,6 +13,7 @@
   <ul>
            <li>Numpy basics</li>   
            <li>Pandas basics</li>
+           <li>Matplotlib basics</li>
  </ul>
 </p>
 <br></br>         
