@@ -11,9 +11,10 @@
 <h3>STAGE 2 : PYTHON FOR DATA VISUALIZATION AND DATA SCIENCE </h2>
 <p>
   <ul>
-           <li>Numpy basics</li>   
-           <li>Pandas basics</li>
-           <li>Matplotlib basics</li>
+    <li>Numpy basics</li>   
+    <li>Pandas basics</li>
+    <li>Matplotlib basics</li>
+    <li>Seaborn basics</li>
  </ul>
 </p>
 <br></br>         
