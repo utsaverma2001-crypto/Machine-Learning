@@ -15,7 +15,7 @@
     <li>Pandas basics</li>
     <li>Matplotlib basics</li>
     <li>Seaborn basics</li>
-    <li>Plotly and Cufflink basics</li>
+    <li>Plotly and Cufflinks basics</li>
  </ul>
 </p>
 <br></br>         
