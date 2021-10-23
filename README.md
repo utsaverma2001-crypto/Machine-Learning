@@ -16,6 +16,7 @@
     <li>Matplotlib basics</li>
     <li>Seaborn basics</li>
     <li>Plotly and Cufflinks basics</li>
+    <li>Geographical Plots basics</li>
  </ul>
 </p>
 <br></br>         
